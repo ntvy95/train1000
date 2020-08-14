@@ -4,7 +4,7 @@ This is my attempt to the coursework of "SCE.I501 Image Recognition", 2020.
 
 ## Challenge 
 
-CIFAR-10 (train1000) contains 1,000 training samples (100 samples per class) and 10,000 testing samples. The samples are of very small size (32 x 32). Therefore, it is a very challenging dataset.
+CIFAR-10 (train1000) contains 1,000 training samples (100 samples per class) and 10,000 testing samples. The samples are of very small size (32px x 32px). Therefore, it is a very challenging dataset.
 
 Challenge page: [Train with 1000](http://www.ok.sc.e.titech.ac.jp/~mtanaka/proj/train1000/).
 
