@@ -20,7 +20,7 @@ Therefore, in case you are truly dealing with the original challenge, my code is
 
 ./PublicReport.pdf: Detailed report for the choice of my network and my training method.
 
-./net_checkpoint__3520__2020_07_09__15_15_31.mat: My trained model which achieves 57.93% accuracy. Please read the **Caution** above.
+./net_checkpoint__3520__2020_07_09__15_15_31.mat: My trained model which achieves **57.93%** accuracy. Please read the **Caution** above.
 
 ./sample_cifar10.m: Train the network. 
 
