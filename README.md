@@ -8,7 +8,7 @@ CIFAR-10 (train1000) contains 1,000 training samples (100 samples per class) and
 
 Challenge page: [Train with 1000](http://www.ok.sc.e.titech.ac.jp/~mtanaka/proj/train1000/).
 
-**Caution**
+### Caution
 
 In the original challenge, we must not use the test data for validation. Yet, in the provided framework implementation of the coursework, we were allowed to use the test data as our validation data.
 
