@@ -120,10 +120,10 @@ options = trainingOptions('adam', ...
     'Plots','training-progress', ...
     'CheckpointPath', '/MATLAB Drive/checkpoint/');
 
-load('net_checkpoint__3520__2020_07_09__15_15_31.mat', 'net');
-lgraph = layerGraph(net);
+%load('net_checkpoint__3520__2020_07_09__15_15_31.mat', 'net');
+%lgraph = layerGraph(net);
 
-%net = trainNetwork(augimdsTrain,lgraph,options);
+net = trainNetwork(augimdsTrain,lgraph,options);
 
 YPred = predict(net,XTrain);
 acc = mean_accuracy( YTrain, YPred );
